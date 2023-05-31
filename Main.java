@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Scanner;
 
 public class Main {
-    static ArrayList<Integer> arr = new ArrayList<>();
+    static LinkedList<Integer> arr = new LinkedList<>();
 
     public static void main(String[] args) {
 
